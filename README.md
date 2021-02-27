@@ -4,4 +4,8 @@ Some random text was added to be used in local.
 
 ---
 
-## this is to the master branch
+## This is to the master branch
+
+
+
+### This was added in the secondary branch. Will have to be merged with main branch
